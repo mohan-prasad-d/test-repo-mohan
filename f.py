@@ -3,4 +3,6 @@ b = 10
 c = a+b
 print(c)
 
-my name is mohan
+print('my name is mohan')
+
+print("New Line!")
