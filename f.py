@@ -1,8 +1,13 @@
-a = 10
-b = 10
-c = a+b
-print(c)
+a=4
+b=10
+c=15
 
+print(a+b+c)
 print('my name is mohan')
 
-print("New Line!")
+print("New Mohan!!!")
+
+
+
+
+print("New Line Added")
